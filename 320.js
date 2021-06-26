@@ -1,2 +1,2 @@
-<script type="text/javascript" src="https://uprimp.com/bnr.php?section=General&pub=528241&format=300x250&ga=g"></script>
+var qs = Math.round(Math.random()*10000000); document.writeln('<iframe src="https://uprimp.com/bnr_xload.php?section=General&pub=528241&format=300x250&ga=g&xt=162469023573628&xtt='+qs+'" width="300" height="250" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts"></iframe>');
 <noscript><a href="https://yllix.com/publishers/528241" target="_blank"><img src="//ylx-aff.advertica-cdn.com/pub/300x250.png" style="border:none;margin:0;padding:0;vertical-align:baseline;" alt="ylliX - Online Advertising Network" /></a></noscript>
